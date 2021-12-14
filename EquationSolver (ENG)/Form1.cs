@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace EquationSolver__UKR_
+namespace EquationSolver__ENG_
 {
     public partial class Form1 : Form
     {
@@ -130,7 +130,7 @@ namespace EquationSolver__UKR_
                         break;
                 }
             }
-            MessageBox.Show(String.Format("Результат: {0}", output));
+            MessageBox.Show(String.Format("Result: {0}", output));
         }
     }
 }

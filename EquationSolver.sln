@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquationSolver (UKR)", "EquationSolver (UKR)\EquationSolver (UKR).csproj", "{21156B9A-9A35-45E8-AE95-EABFB3C8CB29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquationSolver (ENG)", "EquationSolver (ENG)\EquationSolver (ENG).csproj", "{CA880BD2-A9D8-4110-8097-543E4A4084BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{21156B9A-9A35-45E8-AE95-EABFB3C8CB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21156B9A-9A35-45E8-AE95-EABFB3C8CB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21156B9A-9A35-45E8-AE95-EABFB3C8CB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA880BD2-A9D8-4110-8097-543E4A4084BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA880BD2-A9D8-4110-8097-543E4A4084BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA880BD2-A9D8-4110-8097-543E4A4084BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA880BD2-A9D8-4110-8097-543E4A4084BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{21156B9A-9A35-45E8-AE95-EABFB3C8CB29}</ProjectGuid>
+    <ProjectGuid>{CA880BD2-A9D8-4110-8097-543E4A4084BC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>EquationSolver__UKR_</RootNamespace>
-    <AssemblyName>EquationSolver %28UKR%29</AssemblyName>
+    <RootNamespace>EquationSolver__ENG_</RootNamespace>
+    <AssemblyName>EquationSolver %28ENG%29</AssemblyName>
     <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
