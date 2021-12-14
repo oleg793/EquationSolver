@@ -130,7 +130,8 @@ namespace EquationSolver__ENG_
                         break;
                 }
             }
-            MessageBox.Show(String.Format("Result: {0}", output));
+            int outpute = output;
+            MessageBox.Show(String.Format("Result: {0}", outpute));
         }
     }
 }
